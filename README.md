@@ -1,0 +1,1 @@
+This is exercise 3 from the BrightLearn portal, it focuses mainly on the CASE statement and consists of a total of 10 questions. This repository demonstrates my ability and comfortability working with CASE statements.
